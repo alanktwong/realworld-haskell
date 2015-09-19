@@ -1,3 +1,3 @@
 # realworld-haskell
 
-My solutions to [Real World Haskell|http://book.realworldhaskell.org/]
+My solutions to [Real World Haskell](http://book.realworldhaskell.org/)
