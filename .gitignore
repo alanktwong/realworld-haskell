@@ -16,3 +16,4 @@ cabal.sandbox.config
 *.hp
 .project
 .settings
+.DS_Store
